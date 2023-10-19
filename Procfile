@@ -1,2 +1,2 @@
-release: sudo bash install_node.sh
+release: bash install_node.sh
 worker: bash start.sh
