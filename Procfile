@@ -1,2 +1,2 @@
-web: install_node.sh
-&& bash start.sh
+web: sudo bash install_node.sh
+worker: bash start.sh
